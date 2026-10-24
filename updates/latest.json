@@ -1,9 +1,9 @@
 {
-  "version": "0.9.3",
-  "file": "web-0.9.3.zip",
-  "size": 5985435,
-  "sha256": "eb3fd6bcfb8e229a75deae80d29c4035ef8796c637362d80eb9523f32b83ef95",
-  "signature": "83p2ALa1tEDVTqWQMWyZG8BT6zmHBNusGRf0HpPrFz2cy7Q8rQmuw4+USgiPVZkK9CKDUKEuahbrVmhrKew5Bw==",
-  "notes": "Correção do eco de quem assiste a transmissão",
-  "publishedAt": "2026-10-24T04:13:03.165Z"
+  "version": "0.9.4",
+  "file": "web-0.9.4.zip",
+  "size": 5988363,
+  "sha256": "fea31a30c3fd5cacb878e8f849a7ec2f6da932209e0a27ec68460b70afde2489",
+  "signature": "rc1yaIxOJvYiALzECgQ0fmViEEqZPksZ1qSnQFmI19pltWAdkTkslJKWLQWb0e2D+/9nyn/MTOBV8+Uv7z+xDw==",
+  "notes": "Limites de texto, modo lento, proteção contra spam e bans de aparelho e rede",
+  "publishedAt": "2026-10-24T04:20:51.762Z"
 }
