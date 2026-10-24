@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "file": "web-1.0.0.zip",
-  "size": 7285624,
-  "sha256": "26324130380974caaeb7426148cfd13203c7ce68721525c472e8b449f73d7ee0",
-  "signature": "fbvw2a3WprGMd3w9iAfhaax2d+3EU4tS34qFEE8YyjASXiZuZh/B40EGt/FHWAMpdC4MsjOShMTijagDzIphAw==",
-  "notes": "SOLYX 1.0: cargos e permissões por canal (canais privados), notificações do Windows, ruído forte com IA, aperte-para-falar no mouse, volume da transmissão, retomar mensagens após queda e diagnóstico do som da tela.",
+  "version": "1.0.1",
+  "file": "web-1.0.1.zip",
+  "size": 7286337,
+  "sha256": "0e82e130923628c2aedb33870c0fa4d26e0dfc0d8e8f403b3fd54c4cbdc8f4e1",
+  "signature": "pnW4LFaELL8HRcrGVYn1dsuRSnLeHxIXMWuOvZGZ9pmdJR95AudyLFz/rhchd9V38v247nOsruyQCyOxvmfEBg==",
+  "notes": "Transmissão sempre inteira na tela (sem cortar), botões para silenciar, parar de assistir e ajustar o volume da transmissão.",
   "minShell": "0.9.4",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
-  "publishedAt": "2026-10-24T15:56:50.895Z"
+  "publishedAt": "2026-10-24T16:11:20.281Z"
 }
