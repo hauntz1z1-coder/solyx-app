@@ -1,9 +1,9 @@
 {
-  "version": "0.9.5",
-  "file": "web-0.9.5.zip",
-  "size": 5991383,
-  "sha256": "98fca3bdaf278fbde4b07b623770d22004a62f474d3f9488dd01a0603d53505a",
-  "signature": "H0RMkWYcGL/txu6z6CwmJi2tdZAAwuVLte1IA3OswHhOIqXTJwbBbn2CNa0070N2BPAAsD8Bbxj3iY0Jb1BtCw==",
-  "notes": "Segurança: imagens e áudios conferidos e limpos antes do envio (bloqueia arquivo disfarçado e imagem com código escondido), limite de 3 convidados por aparelho, contas de convidado expiram em 24 h e cabeçalhos de proteção no site.",
-  "publishedAt": "2026-10-24T04:49:15.559Z"
+  "version": "0.9.6",
+  "file": "web-0.9.6.zip",
+  "size": 5992337,
+  "sha256": "bd999cadc4537a73e18074a1b1b02dae6c46244997cf8a96216727b78e72989d",
+  "signature": "XsA+2U0ymzdmqiwz9RbKx3kb9/DuSkXojZmH8VRO7u5Rkq45cMZ7s3ifWfNUcCLU3uLZ6zgah6CsGnSRhEFrBQ==",
+  "notes": "Verificação anti-robô (Cloudflare) no login, cadastro e entrar como convidado.",
+  "publishedAt": "2026-10-24T04:59:34.159Z"
 }
