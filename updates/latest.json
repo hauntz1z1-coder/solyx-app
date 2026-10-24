@@ -1,9 +1,9 @@
 {
-  "version": "0.9.0",
-  "file": "web-0.9.0.zip",
-  "size": 5983840,
-  "sha256": "f330cb3f9d5b319114d218c1aab435b81c15e55de806899d373fee45a60caab6",
-  "signature": "DPELJYDgc/GsghU8RO0JUcBjXMwxHPXsx2mXi+rrJmXtV5r+E2GnJBtlG99W3qCOw0uBlPS/WDH2kGE7YTxACQ==",
-  "notes": "Convidar amigos pelo privado, transmissão sem eco, clicar nas pessoas da sala de voz",
-  "publishedAt": "2026-10-24T03:23:20.046Z"
+  "version": "0.9.1",
+  "file": "web-0.9.1.zip",
+  "size": 5984701,
+  "sha256": "bcd3b62bebe6749acd7bc98cd41ae0c8731ef839583798f93a1bab51d6f91547",
+  "signature": "olhfU3YrFYadIYnm8Q5MtscIa0MtaB75rFIP+1DW5x4Q57WcMqWhe9xK5PWu6I0oQzUJvQwZMVHz5eXM1IYKBA==",
+  "notes": "Convite com botão Entrar para todos, AO VIVO em vermelho, capa da comunidade, uma sala de voz por conta",
+  "publishedAt": "2026-10-24T03:42:21.072Z"
 }
