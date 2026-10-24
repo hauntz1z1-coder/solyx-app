@@ -1,9 +1,9 @@
 {
-  "version": "0.9.6",
-  "file": "web-0.9.6.zip",
-  "size": 5992337,
-  "sha256": "bd999cadc4537a73e18074a1b1b02dae6c46244997cf8a96216727b78e72989d",
-  "signature": "XsA+2U0ymzdmqiwz9RbKx3kb9/DuSkXojZmH8VRO7u5Rkq45cMZ7s3ifWfNUcCLU3uLZ6zgah6CsGnSRhEFrBQ==",
-  "notes": "Verificação anti-robô (Cloudflare) no login, cadastro e entrar como convidado.",
-  "publishedAt": "2026-10-24T04:59:34.159Z"
+  "version": "0.9.7",
+  "file": "web-0.9.7.zip",
+  "size": 5993637,
+  "sha256": "7f88d315a438a9afb676d343f913f7cb39a6394cb14983067e135de94e2069a8",
+  "signature": "b7z9lfPCa80RLUePeBRQjLGWwaIK/k4d9xBFbjdz7bOaD0uo/jQB4VQynoNGyB+5GOO+7Wm5hgW2pNYI4aVfDQ==",
+  "notes": "Miniplayer: ao sair da sala enquanto assiste uma transmissão, ela continua num quadro pequeno no canto. Clique para voltar, arraste para mudar de canto.",
+  "publishedAt": "2026-10-24T05:15:11.922Z"
 }
