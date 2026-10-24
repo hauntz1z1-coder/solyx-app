@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "file": "web-1.0.3.zip",
-  "size": 7290702,
-  "sha256": "b3cb141574d69e98968ee3ba008a75075fb01335828f9518b65d326e6d34655b",
-  "signature": "VG5tR9xkCL5nLZ0197EsQ9I8m+DG6aaU22i84YEVicaWdbqTkym2I1Ckaj8kUb+hjsh14KdqOl5g9a2AG4HZCA==",
-  "notes": "App de computador agora se atualiza com um clique.",
-  "minShell": "0.9.4",
+  "version": "1.0.4",
+  "file": "web-1.0.4.zip",
+  "size": 7294863,
+  "sha256": "305717d314d8b04dca848b816c077ca6dace8ba7013d3da5e432038edf84598a",
+  "signature": "UjhPXzRJ0FqHaaog4uL3mcspxODDV1HrcTfUw/8c8WyVCKX7ExHc+Dw0IRibaUKS+gd2b9Nu7bvmbCdzSvGzDQ==",
+  "notes": "Aviso de manutenção e de servidor fora do ar, gerenciamento de conta (@usuário, e-mail, senha) e verificação em 2 etapas.",
+  "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
     "version": "1.0.3",
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.3/SOLYX-Portatil.exe",
     "signature": "qm8Tq434F1mblwm6LE5zUYY5TNOGOgCDLr5TwYm1zsATbmfPbf41yDoFz+GMc4jI9C6yTNh1Br5nyrDHN+WoCQ=="
   },
-  "publishedAt": "2026-10-24T16:54:08.762Z"
+  "publishedAt": "2026-10-24T16:59:02.292Z"
 }
