@@ -1,11 +1,18 @@
 {
-  "version": "1.0.2",
-  "file": "web-1.0.2.zip",
-  "size": 7290443,
-  "sha256": "e45c7e45b57b8c6dc19f23f3bceb8f8c0a1148ef6dd086e3bac5f8bb6ed29a7e",
-  "signature": "Q4MpkxCGcZ2o+vuL7mu9GjqXZa34+T0Rx3Ps/Y7GDpdACAfjcSUqHy7JBQzHMa72/3OWjhMB2uxqS92TbOtzBg==",
-  "notes": "Badges da equipe no perfil, selo de verificado, cargos pelo botão direito e pelo cartão do perfil, membros dentro do cargo e painel admin novo.",
+  "version": "1.0.3",
+  "file": "web-1.0.3.zip",
+  "size": 7290702,
+  "sha256": "b3cb141574d69e98968ee3ba008a75075fb01335828f9518b65d326e6d34655b",
+  "signature": "VG5tR9xkCL5nLZ0197EsQ9I8m+DG6aaU22i84YEVicaWdbqTkym2I1Ckaj8kUb+hjsh14KdqOl5g9a2AG4HZCA==",
+  "notes": "App de computador agora se atualiza com um clique.",
   "minShell": "0.9.4",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
-  "publishedAt": "2026-10-24T16:43:28.825Z"
+  "shell": {
+    "version": "1.0.3",
+    "size": 115981509,
+    "sha256": "7488c8c30ebcb0fcf03f938ff95fe3c059ac591fa5356a4548a1aa06b84db990",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.3/SOLYX-Portatil.exe",
+    "signature": "qm8Tq434F1mblwm6LE5zUYY5TNOGOgCDLr5TwYm1zsATbmfPbf41yDoFz+GMc4jI9C6yTNh1Br5nyrDHN+WoCQ=="
+  },
+  "publishedAt": "2026-10-24T16:54:08.762Z"
 }
