@@ -1,11 +1,11 @@
 {
-  "version": "0.9.7",
-  "file": "web-0.9.7.zip",
-  "size": 5993637,
-  "sha256": "7f88d315a438a9afb676d343f913f7cb39a6394cb14983067e135de94e2069a8",
-  "signature": "b7z9lfPCa80RLUePeBRQjLGWwaIK/k4d9xBFbjdz7bOaD0uo/jQB4VQynoNGyB+5GOO+7Wm5hgW2pNYI4aVfDQ==",
-  "notes": "Miniplayer: ao sair da sala enquanto assiste uma transmissão, ela continua num quadro pequeno no canto. Clique para voltar, arraste para mudar de canto.",
+  "version": "0.9.8",
+  "file": "web-0.9.8.zip",
+  "size": 5959393,
+  "sha256": "5291fe81f1000e3dc862f7fed124c8868897e5f05436e5ed5f9dc1e0834fb802",
+  "signature": "5kWn4m75sePGyj4in5tCw6vUBLYuOsFbOO0SKsKH9k1hn9xYv+6a1UuTm1XdThrvH5QtvOEhHD7xisu21SSeDA==",
+  "notes": "Novo banner para quem já é Premium. Miniplayer da transmissão.",
   "minShell": "0.9.4",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
-  "publishedAt": "2026-10-24T05:15:34.655Z"
+  "publishedAt": "2026-10-24T05:16:26.540Z"
 }
