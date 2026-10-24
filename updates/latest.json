@@ -1,18 +1,18 @@
 {
-  "version": "1.0.5",
-  "file": "web-1.0.5.zip",
-  "size": 8948582,
-  "sha256": "2673d320430eeaabe6d56ceed8dd7d9763af8f73e5f0e86f75e00f9c88de8925",
-  "signature": "60v9Tk1qJGjj6b7bdWXv5XI88DEGy312uXz1zLN/JmzejHwifNvJ+M0E29WNYQBxPQ0b/c7lUTw0S9Puh7x8Cw==",
-  "notes": "Entrar com Discord/Google, emojis próprios (gatos pretos) e gerenciados pela equipe, correção de quem não ouvia alguém na sala e do seletor de tela repetido.",
+  "version": "1.0.6",
+  "file": "web-1.0.6.zip",
+  "size": 8955124,
+  "sha256": "18a0ff11010cfbfc38a4bee5671b23bcd4881e7593b25d04b96c1a29f70a7c8d",
+  "signature": "mNcax9iPMyeszkN7mwN9ixd1vSmsaSnT/pRRrvh1OCKr67rHEscXzO3ZsliVWjOlZPl8jMgCOz2WItjIBBlcDQ==",
+  "notes": "Voz: eco e ruído melhores, teste de microfone com retorno, volume e silenciar por pessoa, barrinhas de conexão, sons de amigos e atalhos globais. Prévia de links (YouTube e X), digitando nas conversas, marcar como lido, ícone do jogo, loja no painel admin e visual melhor no celular.",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.5",
-    "size": 117570030,
-    "sha256": "5e9e577f635bcc514d9b5d79a3c503db62b852c3bdc39b66e178654a413ef4a6",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.5/SOLYX-Portatil.exe",
-    "signature": "4imEQDqa/r0vKVHK5qXQ9bmVZDbGaH0UZ3jSY0m8551qnJx43iPWw5hF4GsyAvfhW1HXujH/BxMgpi3rLq+ABg=="
+    "version": "1.0.6",
+    "size": 117570155,
+    "sha256": "482120cba4e62d8199c48ff6dcd9bbcca2ec67f0c0c5dcde5e69eb76353c1383",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.6/SOLYX-Portatil.exe",
+    "signature": "cveqArd1bBPiDTmDYBqmaWnyuPFRE78okqZ+Xb58mnImaYcoYqYn6raApJ3dRJq/eFQuNiaukRbhwRWP5jB0Dw=="
   },
-  "publishedAt": "2026-10-24T17:27:04.039Z"
+  "publishedAt": "2026-10-24T21:24:26.266Z"
 }
