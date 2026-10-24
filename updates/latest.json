@@ -1,9 +1,9 @@
 {
-  "version": "0.9.2",
-  "file": "web-0.9.2.zip",
-  "size": 5985437,
-  "sha256": "5f23add10f19b11a1ba99aed06ef07153e8f37455837907e54b436519e9a7e71",
-  "signature": "xqDWn+2nOC9vBz4gwc5QAHE/psJzabxQXL2W3IEST2htMbeM7OADBLO+sWXhgYDr9gqQ5itBMkZg+l/QmNLRDA==",
-  "notes": "Perfil e assistir pelo cartão na sala de voz, controles dos códigos de presente, aviso de eco",
-  "publishedAt": "2026-10-24T03:56:34.542Z"
+  "version": "0.9.3",
+  "file": "web-0.9.3.zip",
+  "size": 5985435,
+  "sha256": "eb3fd6bcfb8e229a75deae80d29c4035ef8796c637362d80eb9523f32b83ef95",
+  "signature": "83p2ALa1tEDVTqWQMWyZG8BT6zmHBNusGRf0HpPrFz2cy7Q8rQmuw4+USgiPVZkK9CKDUKEuahbrVmhrKew5Bw==",
+  "notes": "Correção do eco de quem assiste a transmissão",
+  "publishedAt": "2026-10-24T04:13:03.165Z"
 }
