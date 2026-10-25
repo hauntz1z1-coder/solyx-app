@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
-  "file": "web-1.0.6.zip",
-  "size": 8955124,
-  "sha256": "18a0ff11010cfbfc38a4bee5671b23bcd4881e7593b25d04b96c1a29f70a7c8d",
-  "signature": "mNcax9iPMyeszkN7mwN9ixd1vSmsaSnT/pRRrvh1OCKr67rHEscXzO3ZsliVWjOlZPl8jMgCOz2WItjIBBlcDQ==",
-  "notes": "Voz: eco e ruído melhores, teste de microfone com retorno, volume e silenciar por pessoa, barrinhas de conexão, sons de amigos e atalhos globais. Prévia de links (YouTube e X), digitando nas conversas, marcar como lido, ícone do jogo, loja no painel admin e visual melhor no celular.",
+  "version": "1.0.7",
+  "file": "web-1.0.7.zip",
+  "size": 8955646,
+  "sha256": "590983b7ec32aa00088d4095ac7739e0b3817dd90a4e3b1a35f435213720b7b4",
+  "signature": "myKkIbPAPZtibr90KHGd4qEurSfg6dz/d/znoF7vpbdO6ESoAYwKQ3hz3qHJOct99xO/iHRsxlRXOyXdz4tYCA==",
+  "notes": "Voz mais estável: conexões que falham se refazem sozinhas dos dois lados, sinais perdidos são reenviados, e salas grandes continuam funcionando mesmo se o servidor de mídia cair.",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.6/SOLYX-Portatil.exe",
     "signature": "cveqArd1bBPiDTmDYBqmaWnyuPFRE78okqZ+Xb58mnImaYcoYqYn6raApJ3dRJq/eFQuNiaukRbhwRWP5jB0Dw=="
   },
-  "publishedAt": "2026-10-24T21:24:26.266Z"
+  "publishedAt": "2026-10-25T02:07:41.546Z"
 }
