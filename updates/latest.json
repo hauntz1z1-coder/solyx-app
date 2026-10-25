@@ -8,11 +8,11 @@
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.7",
-    "size": 117572404,
-    "sha256": "947c9b7522f9d17d9f711a9246e158477f8e61dcd059a6ddea57e77e6576f71e",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.7/SOLYX-Portatil.exe",
-    "signature": "p7NZxBpaZh31owabbyG6TPphlRvwU7H60RXJyZLymDt42J7aSwdebJEaWMVyBbasj4zLnpCKseZv2LA2SGMgCA=="
+    "version": "1.0.6",
+    "size": 117570155,
+    "sha256": "482120cba4e62d8199c48ff6dcd9bbcca2ec67f0c0c5dcde5e69eb76353c1383",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.6/SOLYX-Portatil.exe",
+    "signature": "cveqArd1bBPiDTmDYBqmaWnyuPFRE78okqZ+Xb58mnImaYcoYqYn6raApJ3dRJq/eFQuNiaukRbhwRWP5jB0Dw=="
   },
   "publishedAt": "2026-10-25T02:31:09.191Z"
 }
