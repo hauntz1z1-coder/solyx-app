@@ -1,18 +1,18 @@
 {
   "version": "1.0.7",
   "file": "web-1.0.7.zip",
-  "size": 8955646,
-  "sha256": "590983b7ec32aa00088d4095ac7739e0b3817dd90a4e3b1a35f435213720b7b4",
-  "signature": "myKkIbPAPZtibr90KHGd4qEurSfg6dz/d/znoF7vpbdO6ESoAYwKQ3hz3qHJOct99xO/iHRsxlRXOyXdz4tYCA==",
+  "size": 8955662,
+  "sha256": "2d967ab0261135244a8d4a5e35bd83271193177e382d212da434ecc60e9c70f7",
+  "signature": "RwEI6gNmq86EgUhNJloV6FhEutlAZKz8yAZ9XeR1lSPyuOz9xTOD6jDYjOGaNYaDlMk5UphfylqoUzOG9F+ZBw==",
   "notes": "Voz mais estável: conexões que falham se refazem sozinhas dos dois lados, sinais perdidos são reenviados, e salas grandes continuam funcionando mesmo se o servidor de mídia cair.",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.6",
-    "size": 117570155,
-    "sha256": "482120cba4e62d8199c48ff6dcd9bbcca2ec67f0c0c5dcde5e69eb76353c1383",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.6/SOLYX-Portatil.exe",
-    "signature": "cveqArd1bBPiDTmDYBqmaWnyuPFRE78okqZ+Xb58mnImaYcoYqYn6raApJ3dRJq/eFQuNiaukRbhwRWP5jB0Dw=="
+    "version": "1.0.7",
+    "size": 117572404,
+    "sha256": "947c9b7522f9d17d9f711a9246e158477f8e61dcd059a6ddea57e77e6576f71e",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.7/SOLYX-Portatil.exe",
+    "signature": "p7NZxBpaZh31owabbyG6TPphlRvwU7H60RXJyZLymDt42J7aSwdebJEaWMVyBbasj4zLnpCKseZv2LA2SGMgCA=="
   },
-  "publishedAt": "2026-10-25T02:07:41.546Z"
+  "publishedAt": "2026-10-25T02:31:09.191Z"
 }
