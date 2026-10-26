@@ -42,7 +42,7 @@ if [[ -z "$SUB" || "$SUB" == "None" ]]; then
 fi
 
 say "Chave SSH (fica só no seu Cloud Shell: ~/.ssh/solyx)"
-[[ -f ~/.ssh/solyx ]] || ssh-keygen -t ed25519 -f ~/.ssh/solyx -N "" -C solyx-voz >/dev/null
+[[ -f ~/.ssh/solyx ]] || ssh-keygen -t rsa -b 4096 -f ~/.ssh/solyx -N "" -C solyx-voz >/dev/null
 
 say "Imagem Ubuntu 24.04 (ARM)"
 IMG=$(oci compute image list -c "$C" --operating-system "Canonical Ubuntu" --operating-system-version "24.04" \
