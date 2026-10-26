@@ -30,6 +30,13 @@ if [[ -n "$MYIP" && "$MYIP" != "$DNSIP" ]]; then
   exit 1
 fi
 
+# Servidor pequeno (1 GB): cria 2 GB de memória de troca para não faltar memória.
+if [[ ! -f /swapfile ]] && (( $(awk '/MemTotal/{print $2}' /proc/meminfo) < 4000000 )); then
+  echo "==> Criando 2 GB de swap"
+  fallocate -l 2G /swapfile && chmod 600 /swapfile && mkswap /swapfile && swapon /swapfile
+  echo '/swapfile none swap sw 0 0' >> /etc/fstab
+fi
+
 echo "==> Instalando Docker"
 export DEBIAN_FRONTEND=noninteractive
 apt-get update -y

@@ -44,26 +44,30 @@ fi
 say "Chave SSH (fica só no seu Cloud Shell: ~/.ssh/solyx)"
 [[ -f ~/.ssh/solyx ]] || ssh-keygen -t rsa -b 4096 -f ~/.ssh/solyx -N "" -C solyx-voz >/dev/null
 
-say "Imagem Ubuntu 24.04 (ARM)"
+# MICRO=1: servidor AMD pequeno (sempre tem vaga). Sem isso: Ampere (mais forte, às vezes sem vaga).
+if [[ "${MICRO:-}" == 1 ]]; then SHAPE=VM.Standard.E2.1.Micro; else SHAPE=VM.Standard.A1.Flex; fi
+
+say "Imagem Ubuntu 24.04 para $SHAPE"
 IMG=$(oci compute image list -c "$C" --operating-system "Canonical Ubuntu" --operating-system-version "24.04" \
-  --shape VM.Standard.A1.Flex --sort-by TIMECREATED --sort-order DESC --query 'data[0].id' --raw-output)
+  --shape "$SHAPE" --sort-by TIMECREATED --sort-order DESC --query 'data[0].id' --raw-output)
 echo "    $IMG"
 
-say "Servidor solyx-voz (Ampere A1, grátis)"
+say "Servidor solyx-voz ($SHAPE, grátis)"
 ID=$(q oci compute instance list -c "$C" --display-name solyx-voz --lifecycle-state RUNNING --query 'data[0].id' --raw-output)
 if [[ -z "$ID" || "$ID" == "None" ]]; then
-  for cfg in '4 24' '2 12' '1 6'; do
-    set -- $cfg
-    echo "    tentando $1 núcleos / $2 GB…"
-    if ID=$(oci compute instance launch -c "$C" --availability-domain "$AD" --shape VM.Standard.A1.Flex \
-        --shape-config "{\"ocpus\":$1,\"memoryInGBs\":$2}" --subnet-id "$SUB" --image-id "$IMG" --assign-public-ip true \
+  if [[ "$SHAPE" == VM.Standard.E2.1.Micro ]]; then CFGS=('micro'); else CFGS=('4 24' '2 12' '1 6'); fi
+  for cfg in "${CFGS[@]}"; do
+    if [[ "$cfg" == micro ]]; then SC=(); echo "    criando o servidor pequeno (1 GB)…"
+    else set -- $cfg; SC=(--shape-config "{\"ocpus\":$1,\"memoryInGBs\":$2}"); echo "    tentando $1 núcleos / $2 GB…"; fi
+    if ID=$(oci compute instance launch -c "$C" --availability-domain "$AD" --shape "$SHAPE" "${SC[@]}" \
+        --subnet-id "$SUB" --image-id "$IMG" --assign-public-ip true \
         --display-name solyx-voz --ssh-authorized-keys-file ~/.ssh/solyx.pub --boot-volume-size-in-gbs 50 \
         --wait-for-state RUNNING --query 'data.id' --raw-output 2>/tmp/solyx-launch.err); then break; fi
     ID=""
     grep -qi "capacity" /tmp/solyx-launch.err && { echo "    sem capacidade nesse tamanho"; continue; }
     cat /tmp/solyx-launch.err; exit 1
   done
-  [[ -n "$ID" ]] || { echo "!! A Oracle está sem capacidade Ampere agora. Tente de novo em alguns minutos."; exit 1; }
+  [[ -n "$ID" ]] || { echo "!! A Oracle está sem capacidade agora. Tente de novo em alguns minutos (ou MICRO=1)."; exit 1; }
 fi
 
 IP=$(oci compute instance list-vnics --instance-id "$ID" --query 'data[0]."public-ip"' --raw-output)
