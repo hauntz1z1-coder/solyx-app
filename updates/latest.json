@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "file": "web-1.0.8.zip",
-  "size": 8956045,
-  "sha256": "04a405bdb4a71e47126a819ee95e09353452f08eaf0b600a097b6940fba136c0",
-  "signature": "6LiA96d5m2u28RLBNrp8yO9ZbheD72Q1UjVYGOPf8Ehvi9Jf1nRbvQrIkvpVQjUUfeErEY/6aqwx28IvXYFJBw==",
-  "notes": "Voz pelo servidor próprio do SOLYX em salas com mais de 3 pessoas (a transmissão de tela continua direta, até 6 assistindo), e voz mais estável.",
+  "version": "1.0.9",
+  "file": "web-1.0.9.zip",
+  "size": 9016381,
+  "sha256": "18b582dc63e4e1f5ad2b282b6b2d5983ae3d4ba0058698d0b5af2edc34a8e9fc",
+  "signature": "UBabbvxGExmOkd6tsOWuMobzbm1owoidslL/z2j+sSsTj7KGg5y8srKCEv8BgmqWQ78bGfoyuCDVWm0yk4RrDQ==",
+  "notes": "Convide e ganhe: cada amigo que entra pelo seu link e usa o SOLYX vale 10 dias de Premium (até 30).",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.8/SOLYX-Portatil.exe",
     "signature": "ox+7/hcMmW30OP7BwD6bJp2UFJuup7OSAY/RpEqb4+Z2aESWA4wkoHIeZRGSuH+p8gkixFkhmb0PIpVtbumnBA=="
   },
-  "publishedAt": "2026-10-26T16:22:42.452Z"
+  "publishedAt": "2026-10-26T16:45:42.306Z"
 }
