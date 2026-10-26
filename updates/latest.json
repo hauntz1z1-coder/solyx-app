@@ -1,18 +1,18 @@
 {
   "version": "1.0.9",
   "file": "web-1.0.9.zip",
-  "size": 9358926,
-  "sha256": "7336457a83be0892ee115fee8ae368ca6ffb6588b83b3d76d418eac42ff60cab",
-  "signature": "5l9eCu8x3MSSOsGpwEXSi3c9/CW07M3p5SRdSdMD07WFH9O6qzLW1qpq2d20vQkoxJmn/wQPsP1JaExNCTw5AA==",
-  "notes": "Ícone novo, menções @everyone/@here e @pessoa com sugestões, Convide e ganhe, e ícone da bandeja com o logo fora das salas de voz.",
+  "size": 9418348,
+  "sha256": "acc2919fbfb4a3c4d6f94b6cf2408ae4b904e5371e766892bb95589975d4aa06",
+  "signature": "baUUTjwRLXv8WFmmOb8eaUuoKRiB9LqEnPBGZa8bp5hZRXs3//39+QEIpF7Fl/548qdZtGUW8MGohWZ3eH+2AA==",
+  "notes": "Ícone de Halloween, menções @everyone/@here e @pessoa com sugestões, Convide e ganhe, e ícone da bandeja com o logo fora das salas de voz.",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
     "version": "1.0.9",
-    "size": 117817280,
-    "sha256": "9554cf028f462898168ea5f59451e2c59277270ec3c337b773e5039707ddc3c1",
+    "size": 117906096,
+    "sha256": "354a55735e5d6515be2d0558a8a27b8cf059590c6af0aa9c46e25d57b5122697",
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.9/SOLYX-Portatil.exe",
-    "signature": "4LvLHsrQHvHCV/e7IV2Qof5X3qC05sbJ+cjObA5j9VKu+ddx088ETQTLzjtiuLrizlEMNKqLY8uRKDTHTZbDBw=="
+    "signature": "roGSeyjzCc42iksAgussm8TE5p69kd+ttm21tjr4nfgpWJSTzCKWct6wqi9uqA6FEymziaTS6OIH8TW2poIrBQ=="
   },
-  "publishedAt": "2026-10-26T17:07:00.895Z"
+  "publishedAt": "2026-10-26T17:11:54.222Z"
 }
