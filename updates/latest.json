@@ -1,18 +1,18 @@
 {
-  "version": "1.0.9",
-  "file": "web-1.0.9.zip",
-  "size": 9419945,
-  "sha256": "50303d6c9061f8664a796e3cd75a05dc95384b6bc8092ac214f076cbb80bfde9",
-  "signature": "kSVgzlCyuiEmI1INkrOKFwVXowvmrqr1Ns426JEFpxwgtxTg2l117rDqjvilC5NyOO0BMQXVW6Z0SEyB8ImTBw==",
-  "notes": "Plano Pro com visual novo (borda brilhante, meteoros, títulos com fade), Presenteie o Pro com brilho que segue o mouse, digitando com brilho, menu ⋯ no perfil, menções @everyone/@here e @pessoa, Convide e ganhe e ícone de Halloween.",
+  "version": "1.0.10",
+  "file": "web-1.0.10.zip",
+  "size": 9518647,
+  "sha256": "4ea723cfbc85ab4865088eea41c6f72fd30c97410d5670009cbdbbeba536b474",
+  "signature": "JQvD9Yla97KXSsNTQ2sVvJV4H3DyAWrU0dvG86tPAXwb5Xrwc+IWTdTKrrgXN+8CjFxpXENSZnBxc3N+rT4UDA==",
+  "notes": "Ícone do app corrigido (não fica mais em branco), banners novos do Pro e do Convide e ganhe, meteoros no login e na loja, e brilho laranja nos itens da loja.",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.9",
-    "size": 117908409,
-    "sha256": "d51cb9627bdc6b1f7652a007c3f69c9c5222d5b5b60ea0d287306cb22c38f978",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.9/SOLYX-Portatil.exe",
-    "signature": "xJpLulckm+uruxWZ+gZAmI5WckjTgG5JZSK339YKpeCnMUnPqwU9DeITohlipzrrzrYFD+gaYr7J4ll5bD0LDA=="
+    "version": "1.0.10",
+    "size": 118225623,
+    "sha256": "6af89ada80e7bff414a102840f8d47dcdf6807a8f55e8d2b54e1342f1a097acb",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.10/SOLYX-Portatil.exe",
+    "signature": "8jk3AcSHmY39cweuITaw0ogha0SjpDaUwqOxuqI9KUlwR4g+XKrEaR+b/SYk8VXR8/J7qQwosjMBhVRoUUe0Cw=="
   },
-  "publishedAt": "2026-10-26T19:13:01.064Z"
+  "publishedAt": "2026-10-26T19:36:50.117Z"
 }
