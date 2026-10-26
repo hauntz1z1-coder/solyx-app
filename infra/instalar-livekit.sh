@@ -21,6 +21,9 @@ LIVEKIT_IMAGE="livekit/livekit-server:v1.9.11"
 CADDY_IMAGE="caddy:2.10-alpine"
 DIR=/opt/livekit
 
+echo "==> Esperando o servidor terminar de ligar"
+cloud-init status --wait >/dev/null 2>&1 || true
+
 echo "==> Conferindo o DNS de $DOMAIN"
 MYIP="$(curl -fsS https://api.ipify.org || true)"
 DNSIP="$(getent ahostsv4 "$DOMAIN" | awk 'NR==1{print $1}' || true)"
@@ -128,7 +131,9 @@ done
 echo
 if [[ "${OK:-}" == 1 ]]; then echo "✅ LiveKit no ar em https://$DOMAIN"; else echo "⚠️  O HTTPS ainda não respondeu. Veja: cd $DIR && docker compose logs caddy"; fi
 echo
-echo "Coloque estes 3 segredos no Supabase (Edge Functions → Secrets) e NÃO mande o secret para ninguém:"
-echo "  LIVEKIT_URL        = wss://$DOMAIN"
-echo "  LIVEKIT_API_KEY    = $API_KEY"
-echo "  LIVEKIT_API_SECRET = $API_SECRET"
+umask 077
+printf 'LIVEKIT_URL=wss://%s\nLIVEKIT_API_KEY=%s\nLIVEKIT_API_SECRET=%s\n' "$DOMAIN" "$API_KEY" "$API_SECRET" > "$DIR/segredos-supabase.txt"
+echo "Segredos para o Supabase salvos em $DIR/segredos-supabase.txt (não aparecem aqui de propósito)."
+echo "  LIVEKIT_URL     = wss://$DOMAIN"
+echo "  LIVEKIT_API_KEY = $API_KEY"
+echo "  Para ver o secret:  sudo cat $DIR/segredos-supabase.txt"
