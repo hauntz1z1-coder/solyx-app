@@ -1,10 +1,10 @@
 {
-  "version": "1.0.12",
-  "file": "web-1.0.12.zip",
-  "size": 9520087,
-  "sha256": "1f060e9bccaa72a47f30125115ab48c5b37a493d612f2d39bc56b9319c962387",
-  "signature": "xPazSyU61Ny1RPN7oMn3uJYnsKHSF2V58/q4eEdV7ATGsFwOFibVzYV3p6h9xwEbapit9heVlLSC05ok80y2Cw==",
-  "notes": "Atualizacao automatica do app em segundo plano, aviso de versao nova sempre visivel e correcoes",
+  "version": "1.0.13",
+  "file": "web-1.0.13.zip",
+  "size": 9523304,
+  "sha256": "583a1b3884279bb6b6ff15429ddfc2ae37ad4bba581cac77262475399d6a8582",
+  "signature": "JjcOzS/CuwKb1TplOD2WIP0dVLRDoAKUASeGgnf8Yh9wEjME8FoDfZt7GUhidD8o+vUKQahf033Wf5J7AyEcCw==",
+  "notes": "Responder mensagens, linha de novas mensagens, fotos de quem mandou mensagem no trilho, filtro de ruido com IA ligado, transmissao de tela mais leve, IP escondido nas chamadas e Pro vitalicio",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.12/SOLYX-Portatil.exe",
     "signature": "RkUqo5CdFrTFkW0IgxvDImm+gKjOigq1T95oK16q7In1Oz4FRYwvgORcecZEtBfDlekRSgWzTR9NgCw8ompmAQ=="
   },
-  "publishedAt": "2026-10-26T21:13:41.711Z"
+  "publishedAt": "2026-10-27T00:41:30.084Z"
 }
