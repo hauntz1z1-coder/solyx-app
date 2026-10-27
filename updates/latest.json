@@ -1,18 +1,18 @@
 {
-  "version": "1.0.13",
-  "file": "web-1.0.13.zip",
-  "size": 9523304,
-  "sha256": "583a1b3884279bb6b6ff15429ddfc2ae37ad4bba581cac77262475399d6a8582",
-  "signature": "JjcOzS/CuwKb1TplOD2WIP0dVLRDoAKUASeGgnf8Yh9wEjME8FoDfZt7GUhidD8o+vUKQahf033Wf5J7AyEcCw==",
-  "notes": "Responder mensagens, linha de novas mensagens, fotos de quem mandou mensagem no trilho, filtro de ruido com IA ligado, transmissao de tela mais leve, IP escondido nas chamadas e Pro vitalicio",
+  "version": "1.0.14",
+  "file": "web-1.0.14.zip",
+  "size": 9524600,
+  "sha256": "32d73d17c531e211ff3cd1f3f7ee2b3f3415402fb126ccb58dcb68460a6fe394",
+  "signature": "h6CkXfPuTEki50MHwYaABtMHFAA5/nhNkzPgC2IOW3xefqSxD2YwQYO3GqMr2WB3LYrxC/XsTXqhPzF6DTP8AA==",
+  "notes": "Jogando agora, respostas menores e reiniciar corrigido",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.12",
-    "size": 119295731,
-    "sha256": "a5ec0d216c36a20513e928f03ae998e37a4cbc9460da3bdd26f24aedc6afdacb",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.12/SOLYX-Portatil.exe",
-    "signature": "RkUqo5CdFrTFkW0IgxvDImm+gKjOigq1T95oK16q7In1Oz4FRYwvgORcecZEtBfDlekRSgWzTR9NgCw8ompmAQ=="
+    "version": "1.0.14",
+    "size": 119300963,
+    "sha256": "63eabfe3b2ebb572662dbec5f1a918c15911c215d893c8be64f90f33e57812d1",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.14/SOLYX-Portatil.exe",
+    "signature": "1IjqON5P6tvw4V8wLZbiX6Q50gpbFGPqja42D2zn5/wwVyoywEQNhffN5NQkIpgPEgzZ0+YZ9X+i53yW/rsgAA=="
   },
-  "publishedAt": "2026-10-27T00:41:30.084Z"
+  "publishedAt": "2026-10-27T02:02:12.542Z"
 }
