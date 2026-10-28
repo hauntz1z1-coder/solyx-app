@@ -1,10 +1,10 @@
 {
-  "version": "1.0.20",
-  "file": "web-1.0.20.zip",
-  "size": 9416784,
-  "sha256": "53eb46e5bf3e168849ab6ab347d017059748474853eda26772bbede2a707cb8e",
-  "signature": "weLF147TWqGNVTe4ZXtn9GKZ1cHBOdXPVcoFdGuoy4Q9JZtZEpoHw3bVpEKf4U/n0qhidXgFr7RpU/fW2anVDw==",
-  "notes": "Atualizar e reiniciar sem janela preta e sem travar",
+  "version": "1.0.21",
+  "file": "web-1.0.21.zip",
+  "size": 9416967,
+  "sha256": "4714be2c1df66a658a5aef464dfe3fb44045197f5bf24c8b50c127eb9f3b6626",
+  "signature": "giknDn39DraJd8shypIldx/1pLpdzeyNSR+qBSITy6feMUX5dJk0tlxZqW47QOhjVOOx5FMF2gIK4ffa3M2kCw==",
+  "notes": "Balao de chat nas salas de voz da lateral",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.20/SOLYX-Portatil.exe",
     "signature": "dR9WJMxI5DA5QCP3gZfY7b0U7xfxMwdpjXjX0SMG2GHyw/xBTVMKmbO/jE11LXReCnmtX0Sbdx8XQ8lzF8kVCw=="
   },
-  "publishedAt": "2026-10-28T18:10:32.234Z"
+  "publishedAt": "2026-10-28T18:15:48.491Z"
 }
