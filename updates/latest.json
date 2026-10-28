@@ -1,18 +1,18 @@
 {
-  "version": "1.0.16",
-  "file": "web-1.0.16.zip",
-  "size": 9409996,
-  "sha256": "88753a956ca766b4c3d1f95465d4e7f784141c789f14ea82d6d353a284944f43",
-  "signature": "mqVTRC5W2/+k+1r0bjwQukyLC6OLwp1i7fa0jkmvPMpN67YVDi+MxHzsyouc6yfD2ekwOyuIzneBaYMdrfBUCw==",
-  "notes": "Aviso no site para baixar a versao desktop (Windows)",
+  "version": "1.0.17",
+  "file": "web-1.0.17.zip",
+  "size": 9415634,
+  "sha256": "a5c4fee174030ed1110b43ad98e65e27a1e2e8edcaf6c8a149fea8d2ff08bbc7",
+  "signature": "Ccrj84BenxBGlEggOjk68NDmJiKGiy42ELsNlWxox3tW7GC/zyyq8Sm6wYzT2JXxpQdflatNI2UtyFbirprGDw==",
+  "notes": "SOLYX Chat: chat nas salas de voz, buscar, fixar e mencoes, categorias de canais, excluir comunidade, gestao de comunidades no admin, codificacao na live e card de presente novo",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.15",
-    "size": 119144249,
-    "sha256": "22c0c2597f946258e23535ab46e64efdde2a9ae1446657eb9d9bc2600aeee26d",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.15/SOLYX-Portatil.exe",
-    "signature": "/BGxeWJaqdXmRI4XZP56oN0P5LW2bhrAAhwT4Di77ewKJY6CfQD7eUL/3Ds4iLUi6jxfTTuzezQGm9D3DEnHCQ=="
+    "version": "1.0.17",
+    "size": 119147378,
+    "sha256": "9f0564ce920a7bd606841e8194c881d068396bedbf8946a59558286e43435753",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.17/SOLYX-Portatil.exe",
+    "signature": "xCIuR2aeB82zRBcJO/34UNd45FLaew4UZ7CwZFqrcBCLMxND7z6gCtConfuAwguaC6tcfebQ/t49w/7m9mJnAw=="
   },
-  "publishedAt": "2026-10-28T05:58:36.533Z"
+  "publishedAt": "2026-10-28T17:25:33.995Z"
 }
