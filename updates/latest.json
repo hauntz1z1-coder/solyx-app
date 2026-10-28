@@ -1,10 +1,10 @@
 {
-  "version": "1.0.18",
-  "file": "web-1.0.18.zip",
-  "size": 9416767,
-  "sha256": "148c9c394c4442bfcabaecc91e91361c076840b79e599158509bfc34d19e2323",
-  "signature": "0blCGWgWodH+sdfmtyE0GCE3m98zeL/sl77Qj+T5eCWdms2xyku5725IOULQJIzUmhEqSM9fxBENtaVabGKFAQ==",
-  "notes": "Transmissao com o som do PC sem as vozes da chamada (quem assiste nao se ouve mais) e aviso de versao nova na hora",
+  "version": "1.0.19",
+  "file": "web-1.0.19.zip",
+  "size": 9416786,
+  "sha256": "376d260dd92ad4982bf5a0878399b5edb9576eb1ffdf86210bfe4066251c8172",
+  "signature": "hsTsxVQP5vP7ngK54c+E/ZzZxGe4rls/pgPhOzLOeKsYc8FP70rkqA10Gzh+vDQ/Bhzui31HCif0pbce9pFJAw==",
+  "notes": "Corrige criar canais e salas de voz dentro das comunidades",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.18/SOLYX-Portatil.exe",
     "signature": "luuyewd2UsiMdWYXAUXII/Snj+Wvt6jEoHsJaJ61idP7rNH8j4/FvgtBL+IUJDYZ+GHiFFBEfovzzqQGj2bNCA=="
   },
-  "publishedAt": "2026-10-28T17:52:09.856Z"
+  "publishedAt": "2026-10-28T18:02:19.088Z"
 }
