@@ -1,10 +1,10 @@
 {
-  "version": "1.0.21",
-  "file": "web-1.0.21.zip",
-  "size": 9416967,
-  "sha256": "4714be2c1df66a658a5aef464dfe3fb44045197f5bf24c8b50c127eb9f3b6626",
-  "signature": "giknDn39DraJd8shypIldx/1pLpdzeyNSR+qBSITy6feMUX5dJk0tlxZqW47QOhjVOOx5FMF2gIK4ffa3M2kCw==",
-  "notes": "Balao de chat nas salas de voz da lateral",
+  "version": "1.0.22",
+  "file": "web-1.0.22.zip",
+  "size": 9419303,
+  "sha256": "621976e2f864d73481ae8f7c514c664b51c845df160bd02aae5891e7d11746d6",
+  "signature": "cibRHF+aW2+mUI5EE9UGThVCbZdXBQMSK4PUQUci0022Zlk9E9HX7L0mqVDtGfKbjYmfpK3UdAyS2m4MRk/5BQ==",
+  "notes": "Loja: placas de identificacao e efeitos de perfil, com categorias",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.20/SOLYX-Portatil.exe",
     "signature": "dR9WJMxI5DA5QCP3gZfY7b0U7xfxMwdpjXjX0SMG2GHyw/xBTVMKmbO/jE11LXReCnmtX0Sbdx8XQ8lzF8kVCw=="
   },
-  "publishedAt": "2026-10-28T18:15:48.491Z"
+  "publishedAt": "2026-10-28T23:52:20.965Z"
 }
