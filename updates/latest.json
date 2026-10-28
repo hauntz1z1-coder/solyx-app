@@ -1,18 +1,18 @@
 {
-  "version": "1.0.17",
-  "file": "web-1.0.17.zip",
-  "size": 9415634,
-  "sha256": "a5c4fee174030ed1110b43ad98e65e27a1e2e8edcaf6c8a149fea8d2ff08bbc7",
-  "signature": "Ccrj84BenxBGlEggOjk68NDmJiKGiy42ELsNlWxox3tW7GC/zyyq8Sm6wYzT2JXxpQdflatNI2UtyFbirprGDw==",
-  "notes": "SOLYX Chat: chat nas salas de voz, buscar, fixar e mencoes, categorias de canais, excluir comunidade, gestao de comunidades no admin, codificacao na live e card de presente novo",
+  "version": "1.0.18",
+  "file": "web-1.0.18.zip",
+  "size": 9416767,
+  "sha256": "148c9c394c4442bfcabaecc91e91361c076840b79e599158509bfc34d19e2323",
+  "signature": "0blCGWgWodH+sdfmtyE0GCE3m98zeL/sl77Qj+T5eCWdms2xyku5725IOULQJIzUmhEqSM9fxBENtaVabGKFAQ==",
+  "notes": "Transmissao com o som do PC sem as vozes da chamada (quem assiste nao se ouve mais) e aviso de versao nova na hora",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.17",
-    "size": 119147378,
-    "sha256": "9f0564ce920a7bd606841e8194c881d068396bedbf8946a59558286e43435753",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.17/SOLYX-Portatil.exe",
-    "signature": "xCIuR2aeB82zRBcJO/34UNd45FLaew4UZ7CwZFqrcBCLMxND7z6gCtConfuAwguaC6tcfebQ/t49w/7m9mJnAw=="
+    "version": "1.0.18",
+    "size": 119160488,
+    "sha256": "7e2c213d20acf4c296183254c95f64332baf4b32698d9a7ed4ede3cd520fcbb1",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.18/SOLYX-Portatil.exe",
+    "signature": "luuyewd2UsiMdWYXAUXII/Snj+Wvt6jEoHsJaJ61idP7rNH8j4/FvgtBL+IUJDYZ+GHiFFBEfovzzqQGj2bNCA=="
   },
-  "publishedAt": "2026-10-28T17:25:33.995Z"
+  "publishedAt": "2026-10-28T17:52:09.856Z"
 }
