@@ -1,10 +1,10 @@
 {
-  "version": "1.0.15",
-  "file": "web-1.0.15.zip",
-  "size": 9409754,
-  "sha256": "6acdb2a239067c2c33022234a558acef362ea95d37b0c92431c3182b0ebdb1c0",
-  "signature": "zPxyl+Gx1MtUC9+Kjwb6al8gOIZSX8XYyeW42tD9MuLQSr41g4ztMJej+kYCloz1QU9Z57LzMFTe7v+8LpgzDg==",
-  "notes": "Desempenho automatico e Modo jogo (opcionais), icone preto de volta e loja sem contorno laranja",
+  "version": "1.0.16",
+  "file": "web-1.0.16.zip",
+  "size": 9409996,
+  "sha256": "88753a956ca766b4c3d1f95465d4e7f784141c789f14ea82d6d353a284944f43",
+  "signature": "mqVTRC5W2/+k+1r0bjwQukyLC6OLwp1i7fa0jkmvPMpN67YVDi+MxHzsyouc6yfD2ekwOyuIzneBaYMdrfBUCw==",
+  "notes": "Aviso no site para baixar a versao desktop (Windows)",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.15/SOLYX-Portatil.exe",
     "signature": "/BGxeWJaqdXmRI4XZP56oN0P5LW2bhrAAhwT4Di77ewKJY6CfQD7eUL/3Ds4iLUi6jxfTTuzezQGm9D3DEnHCQ=="
   },
-  "publishedAt": "2026-10-27T03:56:10.252Z"
+  "publishedAt": "2026-10-28T05:58:36.533Z"
 }
