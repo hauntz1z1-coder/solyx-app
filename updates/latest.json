@@ -1,10 +1,10 @@
 {
-  "version": "1.0.23",
-  "file": "web-1.0.23.zip",
-  "size": 9428416,
-  "sha256": "e40320b7386f41c1a1632f3deb59413cd2b91214d111d215012054352f6e3f27",
-  "signature": "WBaVzhOUZCQTO+mPej+KiGqPbMTXUxcWxYQxhlxymE1trllJjeW1mqc91CA/4aH68poNG8VAcQziet4juaOVDQ==",
-  "notes": "Voz mais estavel (correcao do conectando sem fim); loja com efeitos em camadas, molduras de perfil e placas em video; DMs por conversa recente; virar camera; menu do botao direito com moderacao; GIF ate 10 MB",
+  "version": "1.0.24",
+  "file": "web-1.0.24.zip",
+  "size": 9430856,
+  "sha256": "3e8d33b55a7ebcae8632c1be631b452da65c90096fd16c73897ba33c5d5444e0",
+  "signature": "BoS1X0dcxVgpFcNfoSYtvHbn8cA1dsLkK3BaEeln50amytDmepO12LCWAl2JpEW9jh63ubFEnnD0vc1B0AXCAA==",
+  "notes": "Loja organizada por categoria; envio de varias pastas de uma vez; nomes com acento corrigidos",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.20/SOLYX-Portatil.exe",
     "signature": "dR9WJMxI5DA5QCP3gZfY7b0U7xfxMwdpjXjX0SMG2GHyw/xBTVMKmbO/jE11LXReCnmtX0Sbdx8XQ8lzF8kVCw=="
   },
-  "publishedAt": "2026-10-30T20:59:26.302Z"
+  "publishedAt": "2026-10-30T21:39:43.837Z"
 }
