@@ -1,10 +1,10 @@
 {
-  "version": "1.0.25",
-  "file": "web-1.0.25.zip",
-  "size": 9430981,
-  "sha256": "735bf18547c220b1594bc8d23691f1977049431d850618f7e65fbecf526ce607",
-  "signature": "tOZR/Q3QWw3Ud/1N+5HrHFJKR4e6/ZKrpOTfNW3+wyu5hIRbXFEk94Hkw0/I/zCJwNnrxu396o/QKmpPwYeVAg==",
-  "notes": "Voz: salas com mais de 3 pessoas voltam a usar o servidor novo; app le a lista de servidores do site; loja avisa arquivo que nao da para ler",
+  "version": "1.0.26",
+  "file": "web-1.0.26.zip",
+  "size": 9431462,
+  "sha256": "9de62dc7d5986b618a8378babd90a10febed129bc8032c0a1639d84c01949b4a",
+  "signature": "5TCltCR6nJXPVuBeuuLESUT2bYlIvH4N6tD1prnlzJ/qq26rY0bMh5JyTfmrU00rywnMefKJPSqzJQ77CaH/CA==",
+  "notes": "Placas animadas corrigidas; fim do Pro remove os recursos Pro; convidado nao cria comunidade; ate 3 comunidades por conta",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.25/SOLYX-Portatil.exe",
     "signature": "/Z1Om88kGJnDKCDIFkoibotEb8LkXqnGunKwqyq4f6PAY3ZrR8T/4SWdSxTA5bNHSa1EGtapX6VtcqAopxECCg=="
   },
-  "publishedAt": "2026-10-30T21:54:38.768Z"
+  "publishedAt": "2026-10-30T23:00:59.062Z"
 }
