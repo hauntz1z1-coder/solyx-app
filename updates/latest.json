@@ -1,10 +1,10 @@
 {
-  "version": "1.0.26",
-  "file": "web-1.0.26.zip",
-  "size": 9431462,
-  "sha256": "9de62dc7d5986b618a8378babd90a10febed129bc8032c0a1639d84c01949b4a",
-  "signature": "5TCltCR6nJXPVuBeuuLESUT2bYlIvH4N6tD1prnlzJ/qq26rY0bMh5JyTfmrU00rywnMefKJPSqzJQ77CaH/CA==",
-  "notes": "Placas animadas corrigidas; fim do Pro remove os recursos Pro; convidado nao cria comunidade; ate 3 comunidades por conta",
+  "version": "1.0.27",
+  "file": "web-1.0.27.zip",
+  "size": 9431498,
+  "sha256": "541fa77c415e7bf79011b011591be8b15e216530d4f822387f851560c028ab78",
+  "signature": "qa/3uDTy5804sxKhgnJH9iUuJD02lewMxbIAjfStu3ZgkEQmluvdD0Rtb9yq+CEZgX2poSwKFsZRCCTuVsUECg==",
+  "notes": "Placas animadas em video aparecem e animam na lista de membros e conversas",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.25/SOLYX-Portatil.exe",
     "signature": "/Z1Om88kGJnDKCDIFkoibotEb8LkXqnGunKwqyq4f6PAY3ZrR8T/4SWdSxTA5bNHSa1EGtapX6VtcqAopxECCg=="
   },
-  "publishedAt": "2026-10-30T23:00:59.062Z"
+  "publishedAt": "2026-10-30T23:18:13.331Z"
 }
