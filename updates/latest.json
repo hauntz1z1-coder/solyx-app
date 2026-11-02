@@ -1,18 +1,18 @@
 {
-  "version": "1.0.27",
-  "file": "web-1.0.27.zip",
-  "size": 9431498,
-  "sha256": "541fa77c415e7bf79011b011591be8b15e216530d4f822387f851560c028ab78",
-  "signature": "qa/3uDTy5804sxKhgnJH9iUuJD02lewMxbIAjfStu3ZgkEQmluvdD0Rtb9yq+CEZgX2poSwKFsZRCCTuVsUECg==",
-  "notes": "Placas animadas em video aparecem e animam na lista de membros e conversas",
+  "version": "1.0.28",
+  "file": "web-1.0.28.zip",
+  "size": 9370087,
+  "sha256": "4dec790e13744b11c53cf03ba3522e88de7e81090dfafdf56bb6dcc6ed645bfd",
+  "signature": "TbU6oHZjAiMhN/prdWuFzK8SmYVqk20k0e32iiudsMHUCbvpV3C1EOlOi7OVX1UcExDn6lhRzusZCs2u+wudCw==",
+  "notes": "Visual novo do SOLYX Chat: logo e icone novos, tema lilas no lugar do Halloween, sons novos de mensagem, chamada e sala de voz",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
   "shell": {
-    "version": "1.0.25",
-    "size": 119159257,
-    "sha256": "f9b8e1fde36dcaebf3a1e94a191ee5f2a9ed3e42109d4f2691c00fa66c4d876b",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.25/SOLYX-Portatil.exe",
-    "signature": "/Z1Om88kGJnDKCDIFkoibotEb8LkXqnGunKwqyq4f6PAY3ZrR8T/4SWdSxTA5bNHSa1EGtapX6VtcqAopxECCg=="
+    "version": "1.0.28",
+    "size": 118986258,
+    "sha256": "5d4cb1768658b9fe0d19dae41ca847d6bbd9d1f3b2630bf77a9b04df1da1f76e",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.28/SOLYX-Portatil.exe",
+    "signature": "w68OiyfK8e/cQlv+h2zZLxv8hRp6o/UVVuMQ1WI5hS97by6b6hbWQ4ktLo7zygjJ9VkiIgHQSWAiECHOBqsZDg=="
   },
-  "publishedAt": "2026-10-30T23:18:13.331Z"
+  "publishedAt": "2026-11-02T04:45:06.457Z"
 }
