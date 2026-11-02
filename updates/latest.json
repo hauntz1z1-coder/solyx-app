@@ -1,10 +1,10 @@
 {
-  "version": "1.0.29",
-  "file": "web-1.0.29.zip",
-  "size": 9390096,
-  "sha256": "9f403a9e149bea49d4b192fef2e10604ce536caff849042f0b0288c0862156af",
-  "signature": "kmqMLpOUFwk7kgxtX91q7d8dV6aI9t0/XAunUd4fNe9P6k2uM8GSSP7Plcn9t0rMo3fASXjdEn6Dr284DihADg==",
-  "notes": "Atualizar reabre o app sozinho; novo icone de chat no topo; selo do Pro em diamante; download com nome Solyx-Chat.exe",
+  "version": "1.0.30",
+  "file": "web-1.0.30.zip",
+  "size": 9433324,
+  "sha256": "7ecc7e56cc80842d9dc16fd9f18652f15ebfcbcb0f60cfe41a4c243604578aa4",
+  "signature": "228cEmOteD7/oUrI0G064VrGbPpFPFRt9RfbaWeJtOGRDb5GYctrXrr0ph5rE8Yqp3QN1V6lKYL3nAgnt6axDw==",
+  "notes": "Janela de download lilas com o mascote; etiqueta Pro em rosa; escudo de admin vermelho",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.29/Solyx-Chat.exe",
     "signature": "Q6sb3rCuAzxQ16hAVSXF9IrTLzIYaNT+zgzV8MbJNX2VVd8b7eFn9yzTSRw240jNiSKM3KWeUUDB+BQnriw0Bw=="
   },
-  "publishedAt": "2026-11-02T05:09:17.384Z"
+  "publishedAt": "2026-11-02T05:15:17.460Z"
 }
