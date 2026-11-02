@@ -1,18 +1,18 @@
 {
-  "version": "1.0.33",
-  "file": "web-1.0.33.zip",
-  "size": 9479193,
-  "sha256": "a9f9b1508a4471de03da37691b2c7bb214b0319137bf1e7267828d04625976c6",
-  "signature": "B37EtTDCKTqeBMe0jyhjZBXsTjp+r6NyQXAVRU4tc1xd46umzaglBAfhKa9zFgffYhIPP1zYHDMdxK7nVVklDQ==",
-  "notes": "Sons novos tambem quando voce entra e sai da sala",
+  "version": "1.0.34",
+  "file": "web-1.0.34.zip",
+  "size": 9408744,
+  "sha256": "a16832a83c7ab2e06b83c50d4f6a7e2a5c0af09893b28470ac76e54038cabaef",
+  "signature": "B0ByKuWnK9EJHmRJQWXDYkq9ZsZICT5VDn/0P3iGim3N2TO2dA2fjU0P0NwZ12zqVMpHGm5JJRF2BgwKHAHODg==",
+  "notes": "Icone novo do app em vidro",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
-    "version": "1.0.31",
-    "size": 119048996,
-    "sha256": "6e8cc26e3b9193055666dbd917d82a413883a450366afc4dec0e178b3c7929e9",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.31/Solyx-Chat.exe",
-    "signature": "RfESwOnC+8fm/o/BGB085rVwlDaF06Pdf59+PczSRb0jWffQ8QGIssM07/dsqsb1j31TcIsj39Y3RfDLyr0jBg=="
+    "version": "1.0.34",
+    "size": 118933858,
+    "sha256": "79abc65b4566b57cabf058da8fc25e017afd545bf162e8b7016d05b13ef0600e",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.34/Solyx-Chat.exe",
+    "signature": "2J1sOlRAgyiL0BPckN3ZTf+8Xm7V9RXUXCS/TZmX/KfrGmiEfd5VIUUsed9a1e2BjWSa5ojEsodNNMWwgH46Cg=="
   },
-  "publishedAt": "2026-11-02T05:45:34.044Z"
+  "publishedAt": "2026-11-02T05:52:55.466Z"
 }
