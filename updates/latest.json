@@ -1,18 +1,18 @@
 {
-  "version": "1.0.28",
-  "file": "web-1.0.28.zip",
-  "size": 9370087,
-  "sha256": "4dec790e13744b11c53cf03ba3522e88de7e81090dfafdf56bb6dcc6ed645bfd",
-  "signature": "TbU6oHZjAiMhN/prdWuFzK8SmYVqk20k0e32iiudsMHUCbvpV3C1EOlOi7OVX1UcExDn6lhRzusZCs2u+wudCw==",
-  "notes": "Visual novo do SOLYX Chat: logo e icone novos, tema lilas no lugar do Halloween, sons novos de mensagem, chamada e sala de voz",
+  "version": "1.0.29",
+  "file": "web-1.0.29.zip",
+  "size": 9390096,
+  "sha256": "9f403a9e149bea49d4b192fef2e10604ce536caff849042f0b0288c0862156af",
+  "signature": "kmqMLpOUFwk7kgxtX91q7d8dV6aI9t0/XAunUd4fNe9P6k2uM8GSSP7Plcn9t0rMo3fASXjdEn6Dr284DihADg==",
+  "notes": "Atualizar reabre o app sozinho; novo icone de chat no topo; selo do Pro em diamante; download com nome Solyx-Chat.exe",
   "minShell": "1.0.3",
-  "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/SOLYX-Portatil.exe",
+  "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
-    "version": "1.0.28",
-    "size": 118986258,
-    "sha256": "5d4cb1768658b9fe0d19dae41ca847d6bbd9d1f3b2630bf77a9b04df1da1f76e",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.28/SOLYX-Portatil.exe",
-    "signature": "w68OiyfK8e/cQlv+h2zZLxv8hRp6o/UVVuMQ1WI5hS97by6b6hbWQ4ktLo7zygjJ9VkiIgHQSWAiECHOBqsZDg=="
+    "version": "1.0.29",
+    "size": 119023449,
+    "sha256": "7c4f98aed4c7b9d3c61084d2b66d8da3207630cdeb824b27f48848aa32a96e59",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.29/Solyx-Chat.exe",
+    "signature": "Q6sb3rCuAzxQ16hAVSXF9IrTLzIYaNT+zgzV8MbJNX2VVd8b7eFn9yzTSRw240jNiSKM3KWeUUDB+BQnriw0Bw=="
   },
-  "publishedAt": "2026-11-02T04:45:06.457Z"
+  "publishedAt": "2026-11-02T05:09:17.384Z"
 }
