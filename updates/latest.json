@@ -1,18 +1,18 @@
 {
-  "version": "1.0.30",
-  "file": "web-1.0.30.zip",
-  "size": 9433324,
-  "sha256": "7ecc7e56cc80842d9dc16fd9f18652f15ebfcbcb0f60cfe41a4c243604578aa4",
-  "signature": "228cEmOteD7/oUrI0G064VrGbPpFPFRt9RfbaWeJtOGRDb5GYctrXrr0ph5rE8Yqp3QN1V6lKYL3nAgnt6axDw==",
-  "notes": "Janela de download lilas com o mascote; etiqueta Pro em rosa; escudo de admin vermelho",
+  "version": "1.0.31",
+  "file": "web-1.0.31.zip",
+  "size": 9414596,
+  "sha256": "263c79146f4f1959557de6677c30210ce398179cad1a21b204104fe934795906",
+  "signature": "LgnKnJEW1DeTjTVqtG0yyuEKFiuTVmUsbAfkP8l+xU5LOL67eCT+sBeIe/SvvCYylsNADVErzs3tormDTDusDg==",
+  "notes": "Login com logo novo e borda lilas animada; tela de abertura do app com o mascote",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
-    "version": "1.0.29",
-    "size": 119023449,
-    "sha256": "7c4f98aed4c7b9d3c61084d2b66d8da3207630cdeb824b27f48848aa32a96e59",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.29/Solyx-Chat.exe",
-    "signature": "Q6sb3rCuAzxQ16hAVSXF9IrTLzIYaNT+zgzV8MbJNX2VVd8b7eFn9yzTSRw240jNiSKM3KWeUUDB+BQnriw0Bw=="
+    "version": "1.0.31",
+    "size": 119048996,
+    "sha256": "6e8cc26e3b9193055666dbd917d82a413883a450366afc4dec0e178b3c7929e9",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.31/Solyx-Chat.exe",
+    "signature": "RfESwOnC+8fm/o/BGB085rVwlDaF06Pdf59+PczSRb0jWffQ8QGIssM07/dsqsb1j31TcIsj39Y3RfDLyr0jBg=="
   },
-  "publishedAt": "2026-11-02T05:15:17.460Z"
+  "publishedAt": "2026-11-02T05:36:47.780Z"
 }
