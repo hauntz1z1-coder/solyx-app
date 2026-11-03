@@ -1,10 +1,10 @@
 {
-  "version": "1.0.36",
-  "file": "web-1.0.36.zip",
-  "size": 9426324,
-  "sha256": "5cbfc00130919d97f4c9a0be9c19408683c1699c25593fd4a7224d963660c7a2",
-  "signature": "F3QGYJXLVu3Gw43utTxZFybjakvqLT9YcIppI1iYPvrwAJ8tyxvnrOdzaasJilZJYAXtJDB7wKZEQ1yYDda2DQ==",
-  "notes": "Termos de Uso no cadastro e novo endereço: solyxchat.app",
+  "version": "1.0.37",
+  "file": "web-1.0.37.zip",
+  "size": 9431166,
+  "sha256": "03a084254fc7c87ff0a23a10eccf80e8d44cd31444d856cb8de6ae89f9f3ac25",
+  "signature": "MEQh3/zF0wO/0pniEkx6JaZEOLbENDziRh9GfQuDZkRJWpVL16W/JpKADP6HNQnHkPGShKvAghOby4gEdUuLAg==",
+  "notes": "Carregamento animado com o mascote, caixinha de som e menções nas comunidades, selo Pro azul",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.36/Solyx-Chat.exe",
     "signature": "hocI9oFFCXFwy1p/6OOxP3s4PK/wBsMauBMetyeJlZ16mhKfJvt4tXw+HINwp6h1ZcfEBtb+GAvB9wXmtdTeCA=="
   },
-  "publishedAt": "2026-11-03T06:57:36.619Z"
+  "publishedAt": "2026-11-03T21:00:24.986Z"
 }
