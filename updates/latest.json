@@ -1,10 +1,10 @@
 {
-  "version": "1.0.37",
-  "file": "web-1.0.37.zip",
-  "size": 9431166,
-  "sha256": "03a084254fc7c87ff0a23a10eccf80e8d44cd31444d856cb8de6ae89f9f3ac25",
-  "signature": "MEQh3/zF0wO/0pniEkx6JaZEOLbENDziRh9GfQuDZkRJWpVL16W/JpKADP6HNQnHkPGShKvAghOby4gEdUuLAg==",
-  "notes": "Carregamento animado com o mascote, caixinha de som e menções nas comunidades, selo Pro azul",
+  "version": "1.0.38",
+  "file": "web-1.0.38.zip",
+  "size": 9431236,
+  "sha256": "ce656733c58d9f1704cf00e8523276954cf1a33af1ec77a787f76a067eeb4d09",
+  "signature": "n7p03B5+SrPswDpbnFBkvMLZv4XllwFzObsJ/8vITEhZMjc+PIV8LLf6vrYNMYqE052FHi/ffWTpILNC4SsxDA==",
+  "notes": "Ícone de Início fica azul quando você está nessa aba",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.36/Solyx-Chat.exe",
     "signature": "hocI9oFFCXFwy1p/6OOxP3s4PK/wBsMauBMetyeJlZ16mhKfJvt4tXw+HINwp6h1ZcfEBtb+GAvB9wXmtdTeCA=="
   },
-  "publishedAt": "2026-11-03T21:00:24.986Z"
+  "publishedAt": "2026-11-04T03:09:03.257Z"
 }
