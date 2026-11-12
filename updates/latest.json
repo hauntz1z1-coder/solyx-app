@@ -1,18 +1,18 @@
 {
-  "version": "1.0.38",
-  "file": "web-1.0.38.zip",
-  "size": 9431236,
-  "sha256": "ce656733c58d9f1704cf00e8523276954cf1a33af1ec77a787f76a067eeb4d09",
-  "signature": "n7p03B5+SrPswDpbnFBkvMLZv4XllwFzObsJ/8vITEhZMjc+PIV8LLf6vrYNMYqE052FHi/ffWTpILNC4SsxDA==",
-  "notes": "Ícone de Início fica azul quando você está nessa aba",
+  "version": "1.0.39",
+  "file": "web-1.0.39.zip",
+  "size": 9435069,
+  "sha256": "3737b15f421ccb9ce9fcff85bff9c667d08c304800694e5edf6a1c0a47aff70c",
+  "signature": "vnSogmJyUQAOe8kPVaFN0hLhK99fszHkBBmoSje/HV0Lpc3VLNLznCfW9THiChLmirLSUXBhS6952loMWzX1Dg==",
+  "notes": "Atalho Solyx Chat na área de trabalho, menu da voz com volume até 200% e cartão de divulgação na barra lateral",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
-    "version": "1.0.36",
-    "size": 118924163,
-    "sha256": "390a67d0c32385852e824377d962bdccc6563882b52a1907eceec2a8ade5eac7",
-    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.36/Solyx-Chat.exe",
-    "signature": "hocI9oFFCXFwy1p/6OOxP3s4PK/wBsMauBMetyeJlZ16mhKfJvt4tXw+HINwp6h1ZcfEBtb+GAvB9wXmtdTeCA=="
+    "version": "1.0.39",
+    "size": 118927632,
+    "sha256": "4da94fb301fa00ae2271dc2d8b21c26991a2c3be7a595f2a7becdb9ee27a97a7",
+    "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.39/Solyx-Chat.exe",
+    "signature": "pywRqqB5c+ael18CIhDOHqHwE+BWIjZyGO2kEZmyJ01E799+KZ9YHzvx+Hp7vfNKSLtR/s4YhutT04+JWMTDBA=="
   },
-  "publishedAt": "2026-11-04T03:09:03.257Z"
+  "publishedAt": "2026-11-12T02:53:10.760Z"
 }
