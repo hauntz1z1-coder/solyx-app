@@ -1,10 +1,10 @@
 {
-  "version": "1.0.40",
-  "file": "web-1.0.40.zip",
-  "size": 9435255,
-  "sha256": "b47e67efea8d9fbf16e4e5c907e89162a3d9f749f910f145ff39970ca432bdad",
-  "signature": "KuYDLAV2QhB82IUb2+LfjkIViuTnDVIr90U0xXHdKpwE6pk//ZMpIjo678hhJGoeDynFJbo9XmMPmy1ndIP5Bw==",
-  "notes": "Voz: se a conexão direta falhar, a sala passa sozinha para o servidor de voz",
+  "version": "1.0.41",
+  "file": "web-1.0.41.zip",
+  "size": 9435280,
+  "sha256": "26ad1c57de273a8ac0ca5f2d27b27438da2aa9c3fed9b31020043c7051ee435b",
+  "signature": "SIBRz8TTYageaRJH235h22aE39D9Lx4O2lwnv6J1O3PY5o3uV3/8VhA+6Csr7rFDnLiPggFMn40ZHQpN33qsAQ==",
+  "notes": "Voz: servidor de apoio próprio para quem tem a internet bloqueando a conexão direta",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.39/Solyx-Chat.exe",
     "signature": "pywRqqB5c+ael18CIhDOHqHwE+BWIjZyGO2kEZmyJ01E799+KZ9YHzvx+Hp7vfNKSLtR/s4YhutT04+JWMTDBA=="
   },
-  "publishedAt": "2026-11-16T11:51:47.468Z"
+  "publishedAt": "2026-11-16T12:01:29.468Z"
 }
