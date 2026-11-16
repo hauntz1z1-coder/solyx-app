@@ -1,10 +1,10 @@
 {
-  "version": "1.0.39",
-  "file": "web-1.0.39.zip",
-  "size": 9435069,
-  "sha256": "3737b15f421ccb9ce9fcff85bff9c667d08c304800694e5edf6a1c0a47aff70c",
-  "signature": "vnSogmJyUQAOe8kPVaFN0hLhK99fszHkBBmoSje/HV0Lpc3VLNLznCfW9THiChLmirLSUXBhS6952loMWzX1Dg==",
-  "notes": "Atalho Solyx Chat na área de trabalho, menu da voz com volume até 200% e cartão de divulgação na barra lateral",
+  "version": "1.0.40",
+  "file": "web-1.0.40.zip",
+  "size": 9435255,
+  "sha256": "b47e67efea8d9fbf16e4e5c907e89162a3d9f749f910f145ff39970ca432bdad",
+  "signature": "KuYDLAV2QhB82IUb2+LfjkIViuTnDVIr90U0xXHdKpwE6pk//ZMpIjo678hhJGoeDynFJbo9XmMPmy1ndIP5Bw==",
+  "notes": "Voz: se a conexão direta falhar, a sala passa sozinha para o servidor de voz",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.39/Solyx-Chat.exe",
     "signature": "pywRqqB5c+ael18CIhDOHqHwE+BWIjZyGO2kEZmyJ01E799+KZ9YHzvx+Hp7vfNKSLtR/s4YhutT04+JWMTDBA=="
   },
-  "publishedAt": "2026-11-12T02:53:10.760Z"
+  "publishedAt": "2026-11-16T11:51:47.468Z"
 }
