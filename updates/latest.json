@@ -1,10 +1,10 @@
 {
-  "version": "1.0.41",
-  "file": "web-1.0.41.zip",
-  "size": 9435280,
-  "sha256": "26ad1c57de273a8ac0ca5f2d27b27438da2aa9c3fed9b31020043c7051ee435b",
-  "signature": "SIBRz8TTYageaRJH235h22aE39D9Lx4O2lwnv6J1O3PY5o3uV3/8VhA+6Csr7rFDnLiPggFMn40ZHQpN33qsAQ==",
-  "notes": "Voz: servidor de apoio próprio para quem tem a internet bloqueando a conexão direta",
+  "version": "1.0.42",
+  "file": "web-1.0.42.zip",
+  "size": 9436641,
+  "sha256": "4fe29915ad55e2df9433c1446b43250ee149b4682f98788a2cd2dc7e0df9df44",
+  "signature": "MU6recHaRIK4yNl2IySmgFq3Hc/4FY3H5wXuFaNAnGnEENptpdEJvbVETqyrdoyhcWQPAXIbMhz+I0BMVlRlDw==",
+  "notes": "Tela: escolha se a transmissão usa a placa de vídeo ou o processador; mensagem clara quando o Windows bloqueia a captura",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.39/Solyx-Chat.exe",
     "signature": "pywRqqB5c+ael18CIhDOHqHwE+BWIjZyGO2kEZmyJ01E799+KZ9YHzvx+Hp7vfNKSLtR/s4YhutT04+JWMTDBA=="
   },
-  "publishedAt": "2026-11-16T12:01:29.468Z"
+  "publishedAt": "2026-11-17T21:53:10.868Z"
 }
