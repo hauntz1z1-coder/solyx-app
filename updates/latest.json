@@ -1,10 +1,10 @@
 {
-  "version": "1.0.42",
-  "file": "web-1.0.42.zip",
-  "size": 9436641,
-  "sha256": "4fe29915ad55e2df9433c1446b43250ee149b4682f98788a2cd2dc7e0df9df44",
-  "signature": "MU6recHaRIK4yNl2IySmgFq3Hc/4FY3H5wXuFaNAnGnEENptpdEJvbVETqyrdoyhcWQPAXIbMhz+I0BMVlRlDw==",
-  "notes": "Tela: escolha se a transmissão usa a placa de vídeo ou o processador; mensagem clara quando o Windows bloqueia a captura",
+  "version": "1.0.43",
+  "file": "web-1.0.43.zip",
+  "size": 9437050,
+  "sha256": "92fd558b454ba86c574d4c4e4c560aee620f5ad3ee59a9d43ad69ffd68190af9",
+  "signature": "kBjgos2E5GR6abI3H7IxKVCvfDnJSSshRWeQy1K7Vjqwi7a7sOXRcke6n52pnJbctALGV8eCY179fwacjNj6Cg==",
+  "notes": "Microfone: o SOLYX usa exatamente o microfone escolhido (não troca mais para o da webcam sozinho), volta para ele quando reconecta e mostra qual está em uso em Configurações > Voz",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.39/Solyx-Chat.exe",
     "signature": "pywRqqB5c+ael18CIhDOHqHwE+BWIjZyGO2kEZmyJ01E799+KZ9YHzvx+Hp7vfNKSLtR/s4YhutT04+JWMTDBA=="
   },
-  "publishedAt": "2026-11-17T21:53:10.868Z"
+  "publishedAt": "2026-11-18T15:17:08.241Z"
 }
