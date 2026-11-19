@@ -1,10 +1,10 @@
 {
-  "version": "1.0.43",
-  "file": "web-1.0.43.zip",
-  "size": 9437050,
-  "sha256": "92fd558b454ba86c574d4c4e4c560aee620f5ad3ee59a9d43ad69ffd68190af9",
-  "signature": "kBjgos2E5GR6abI3H7IxKVCvfDnJSSshRWeQy1K7Vjqwi7a7sOXRcke6n52pnJbctALGV8eCY179fwacjNj6Cg==",
-  "notes": "Microfone: o SOLYX usa exatamente o microfone escolhido (não troca mais para o da webcam sozinho), volta para ele quando reconecta e mostra qual está em uso em Configurações > Voz",
+  "version": "1.0.44",
+  "file": "web-1.0.44.zip",
+  "size": 9437110,
+  "sha256": "197d097b1518908b04aea4b4e2e5871ce421d38d265e66aad2d8a1c21aeb9622",
+  "signature": "bzlfPO9UtwKL38lwgBpg9S/wtkFw81LVASAmgs12lGa3RYem9Dq0+nHXSTGRBJ6mdcvFotyUPXa7r5ShfzEzBA==",
+  "notes": "Painel de voz: os botões não desalinham mais quando a câmera está ligada",
   "minShell": "1.0.3",
   "shellUrl": "https://github.com/hauntz1z1-coder/solyx-app/releases/latest/download/Solyx-Chat.exe",
   "shell": {
@@ -14,5 +14,5 @@
     "url": "https://github.com/hauntz1z1-coder/solyx-app/releases/download/v1.0.39/Solyx-Chat.exe",
     "signature": "pywRqqB5c+ael18CIhDOHqHwE+BWIjZyGO2kEZmyJ01E799+KZ9YHzvx+Hp7vfNKSLtR/s4YhutT04+JWMTDBA=="
   },
-  "publishedAt": "2026-11-18T15:17:08.241Z"
+  "publishedAt": "2026-11-19T14:29:50.794Z"
 }
